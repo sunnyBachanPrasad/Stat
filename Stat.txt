@@ -1,0 +1,67 @@
+descriptive:
+analyzing data summaring data
+Bar plot
+
+Inferential
+
+Confidence Intervals:
+Z test
+T test
+Chi square Test.
+--------------------
+Population : Mean median Mode
+Smaple
+Random Variable
+--------------------
+Discrete variable 
+Continuos variable
+
+gausian Distribution/Normal distribution
+Emparical formula: 68,95,99
+----------------------
+Gaussian Distribution
+Log Normal distribution:
+if log(x1),log(x2),log(x3) are normal distribution
+Standard Scaler
+----------------------------
+Covariance: 
+Cov(Size,price):
+Cov(x,x) = Var(x,x)
+Direction of relationship
+------------------------------
+Pearson Correlation Cofficient
+Strength of relationship
+(-1,1)
+Chebyshevs Inequality: 1-(1/k*k)
+-------------------------
+Spearmans rank collection:
+Can be applied to nonlinear data
+----------------------
+Outlier:
+Z score & IQR
+Scatter Plot,Box plotusing
+-----------------
+Standardization & Normalization:
+
+Standard Normal Distribution:
+--------------
+P value:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
